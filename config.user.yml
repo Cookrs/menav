@@ -63,6 +63,10 @@ categories:
   - name: 常用网站
     icon: fas fa-star
     sites:
+      - name: NodeSeek
+        url: https://www.nodeseek.com/
+        icon: fas fa-comments
+        description: 
       - name: Linux.do
         url: https://linux.do/
         icon: fab fa-linux
