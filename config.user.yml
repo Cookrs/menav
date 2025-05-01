@@ -66,7 +66,7 @@ categories:
       - name: NodeSeek
         url: https://www.nodeseek.com/
         icon: fas fa-comments
-        description: 
+        description: NodeSeek交流论坛
       - name: Linux.do
         url: https://linux.do/
         icon: fab fa-linux
