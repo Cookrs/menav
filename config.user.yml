@@ -191,11 +191,11 @@ projects:
         - name: SUb Store
           icon: fas fa-sync-alt
           description: Sub-Store订阅管理
-          url: "https://zvhkkegsisuz.us-west-1.clawcloudrun.com/subs"
+          url: "#"
         - name: ogv图床
           icon: fas fa-image
           description: 属于我的个人图床
-          url: "https://ogv.nmslsb.eu.org/"
+          url: "#/"
         - name: 个人博客
           icon: fas fa-blog
           description: 使用Hexo搭建的技术博客
