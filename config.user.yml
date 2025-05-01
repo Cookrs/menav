@@ -195,7 +195,7 @@ projects:
         - name: ogv图床
           icon: fas fa-image
           description: 属于我的个人图床
-          url: "#/"
+          url: "#"
         - name: 个人博客
           icon: fas fa-blog
           description: 使用Hexo搭建的技术博客
