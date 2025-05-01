@@ -151,6 +151,10 @@ categories:
   - name: 在线工具
     icon: fas fa-wrench
     sites:
+      - name: 帮小忙工具箱
+        url: https://tool.browser.qq.com      
+        icon: fas fa-toolbox
+        description: 实用在线工具箱
       - name: JSON Editor
         url: https://jsoneditoronline.org
         icon: fas fa-code-branch
