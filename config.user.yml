@@ -88,13 +88,13 @@ categories:
         icon: fas fa-robot
         description: AI智能助手
       - name: SUb Store
+        url: "https://zvhkkegsisuz.us-west-1.clawcloudrun.com/subs"
         icon: fas fa-sync-alt
         description: Sub-Store订阅管理
-        url: "https://zvhkkegsisuz.us-west-1.clawcloudrun.com/subs"
       - name: ogv图床
+        url: "https://ogv.nmslsb.eu.org/"
         icon: fas fa-image
         description: 属于我的个人图床
-        url: "https://ogv.nmslsb.eu.org/"
 
   - name: 学习资源
     icon: fas fa-graduation-cap
