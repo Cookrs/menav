@@ -139,6 +139,10 @@ categories:
   - name: 设计资源
     icon: fas fa-palette
     sites:
+      - name: Font Awesome
+        url: https://fontawesome.com/search
+        icon: fas fa-icons
+        description: 图标资源库
       - name: Figma
         url: https://www.figma.com
         icon: fab fa-figma
