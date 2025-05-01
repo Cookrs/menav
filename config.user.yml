@@ -180,14 +180,14 @@ projects:
     - name: 个人项目
       icon: fas fa-code
       sites:
-        - name: 个人导航站
-          icon: fas fa-compass
-          description: 一个简洁美观的个人导航页面
-          url: "#"
-        - name: Todo List
-          icon: fas fa-tasks
-          description: 基于Vue3的待办事项管理器
-          url: "#"
+        - name: SUb Store
+          icon: fas fa-sync-alt
+          description: Sub-Store订阅管理
+          url: "https://zvhkkegsisuz.us-west-1.clawcloudrun.com/subs"
+        - name: ogv图床
+          icon: fas fa-image
+          description: 属于我的个人图床
+          url: "https://ogv.nmslsb.eu.org/"
         - name: 个人博客
           icon: fas fa-blog
           description: 使用Hexo搭建的技术博客
